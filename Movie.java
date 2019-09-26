@@ -1,7 +1,4 @@
-//Name: Mr. Jesse Byers
-//Student Number: c3162857
-//Date: 29/05/17
-//Class Name: Movie.java
+
 //Description: This class is used for creating movie objects in the database.
 import java.util.*;
 

@@ -1,6 +1,4 @@
-//Name: Mr. Jesse Byers
-//Student Number: c3162857
-//Date: 29/05/17
+
 //Class Name: MovieDatabase.java
 //Description: This class is used to store Movie objects and also to show movies, create movies and delete movies.
 

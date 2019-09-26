@@ -1,6 +1,4 @@
-//Name: Mr. Jesse Byers
-//Student Number: c3162857
-//Date: 19/05/17
+
 //Class Name: Interface.java
 //Description: This class is used as the main interface for the movie database. Other classes needed for this to work are MovieDatabase.java, Movie.Java and Playlist.java.
 //This program allows users to input and store movie information to a database and allow them to create playlists and search directors.

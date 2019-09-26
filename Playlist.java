@@ -1,7 +1,4 @@
-//Name: Mr. Jesse Byers
-//Student Number: c3162857
-//Date: 29/05/17
-//Class Name: Playlist.java
+
 //Description: This class is used for showing, editing and deleting playlists in the program. This class also shows the total duration and size of each playlist object.
 
 import java.util.*;
